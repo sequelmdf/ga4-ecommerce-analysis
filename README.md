@@ -34,11 +34,15 @@ The project uses a series of SQL queries to examine:
 The SQL files used for the analysis are included in this repository.
 
 ## Key Findings
-- Mobile produced the highest user conversion rate, while desktop generated more overall sales volume.
-- Direct traffic and Google Search were among the strongest-performing traffic sources.
-- The conversion funnel showed substantial user drop-off between product views, cart additions, and purchases.
-- Conversion performance varied considerably by day, highlighting periods of stronger and weaker purchasing activity.
-- Product, country, campaign, and traffic-source performance differed enough to identify opportunities for more targeted marketing decisions.
+
+- The dataset included 270,154 total users and 4,295,584 total events.
+- The conversion funnel showed the largest drop-off between product views and add-to-cart. Of 61,252 product viewers, 12,545 added an item to cart, 9,719 began checkout, and 4,419 completed a purchase. That corresponds to 20.48%, 15.86%, and 7.21% of product viewers, respectively.
+- Mobile had the highest user conversion rate at 1.70%, followed by desktop at 1.60% and tablet at 1.55%.
+- Desktop generated the most total purchase activity because it had the largest user base, even though mobile converted slightly more efficiently.
+- Traffic-source performance varied considerably. Google and shop.googlemerchandisestore had similar conversion rates, while direct traffic had the lowest conversion rate among the named sources. The highest overall rate came from an anonymized “data deleted” source and should be interpreted cautiously.
+- Daily conversion performance fluctuated over time, with the strongest spikes appearing around late November and mid-December, which may reflect Cyber Monday and holiday-season shopping behavior.
+- Super G Unisex Joggers generated the most purchase events, while smaller items such as the Google Emoji Magnet Set, Google Keychain, and Google SF Campus Tote had the highest view-to-purchase rates.
+- The products with the highest purchase volume were not always the same products with the strongest conversion efficiency.
 
 ## Dashboard
 
