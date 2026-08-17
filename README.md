@@ -63,21 +63,15 @@ After the SQL analysis was completed, the results were exported as CSV files and
 
 ## Dashboard
 
-A Tableau dashboard was created to visualize the main KPIs and findings from the analysis.
+The dashboard summarizes user behavior, conversion performance, traffic sources, device performance, product performance, and daily trends.
 
-The dashboard includes:
+![Conversion Funnel Overview](images/conversion-funnel-overview.png)
 
-- Total Users KPI
-- Total Events KPI
-- Conversion funnel
-- Funnel-stage rates
-- Device performance
-- Traffic-source conversion performance
-- Daily conversion-rate trends
-- Top products by purchase activity
-- Top products by view-to-purchase rate
+![Device and Traffic Source Conversion](images/conversion-rate-by-device-and-traffic-source.png)
 
-The dashboard PDF is included in this repository.
+![Top Products Purchase Performance](images/top-products-purchase-performance.png)
+
+![Daily User Conversion Rate Trend](images/daily-user-conversion-rate-trend.png)
 
 ## Project Goal
 
