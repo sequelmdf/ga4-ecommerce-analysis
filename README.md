@@ -65,13 +65,13 @@ After the SQL analysis was completed, the results were exported as CSV files and
 
 The dashboard summarizes user behavior, conversion performance, traffic sources, device performance, product performance, and daily trends.
 
-![Conversion Funnel Overview](images/conversion-funnel-overview.png)
+![Conversion Funnel Overview](images/conversion_funnel_overview.png)
 
-![Device and Traffic Source Conversion](images/conversion-rate-by-device-and-traffic-source.png)
+![Device and Traffic Source Conversion](images/conversion_rate_by_device_and_traffic_source.png)
 
-![Top Products Purchase Performance](images/top-products-purchase-performance.png)
+![Top Products Purchase Performance](images/top_products_purchase_performance.png)
 
-![Daily User Conversion Rate Trend](images/daily-user-conversion-rate-trend.png)
+![Daily User Conversion Rate Trend](images/daily_user_conversion_rate_trend.png)
 
 ## Project Goal
 
