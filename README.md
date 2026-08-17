@@ -69,9 +69,9 @@ The dashboard summarizes user behavior, conversion performance, traffic sources,
 
 ![Device and Traffic Source Conversion](images/conversion_rate_by_device_and_traffic_source.png)
 
-![Top Products Purchase Performance](images/top_products_purchase_performance.png)
-
 ![Daily User Conversion Rate Trend](images/daily_user_conversion_rate_trend.png)
+
+![Top Products Purchase Performance](images/top_products_purchase_performance.png)
 
 ## Project Goal
 
